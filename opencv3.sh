@@ -8,7 +8,7 @@ sudo apt-get dist-upgrade
 echo 'installing Python3...'
 sudo apt-get install python3-pip 
 
-echo 'installing Opencv3...'
+echo 'installing OpenCV3...'
 pip3 install numpy
 pip3 install pillow
 sudo apt-get install cmake
